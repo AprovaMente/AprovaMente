@@ -1,4 +1,4 @@
-# 🧠 AprovaMente
+# AprovaMente
 
 > Estude melhor, organize seu tempo e prepare-se para o futuro.
 
@@ -12,24 +12,24 @@ Plataforma educacional para auxiliar estudantes na organização da rotina de es
 
 ---
 
-## 📑 Sumário
+## Sumário
 
-- [Sobre o projeto](#-sobre-o-projeto)
-- [Objetivos](#-objetivos)
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias](#️-tecnologias-e-ferramentas)
-- [Identidade visual](#-identidade-visual)
-- [Responsividade e acessibilidade](#-responsividade-e-acessibilidade)
-- [Critérios de avaliação](#-checklist-dos-critérios-de-avaliação)
-- [Cronograma](#-cronograma-de-desenvolvimento)
-- [Testes e feedback](#-testes-e-feedback-dos-usuários)
-- [Links](#-links-do-projeto)
-- [Referências](#-referências)
-- [Autores](#-desenvolvedores)
+- [Sobre o projeto](#sobre-o-projeto)
+- [Objetivos](#objetivos)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias](#tecnologias-e-ferramentas)
+- [Identidade visual](#identidade-visual)
+- [Responsividade e acessibilidade](#responsividade-e-acessibilidade)
+- [Critérios de avaliação](#checklist-dos-critérios-de-avaliação)
+- [Cronograma](#cronograma-de-desenvolvimento)
+- [Testes e feedback](#testes-e-feedback-dos-usuários)
+- [Links](#links-do-projeto)
+- [Referências](#referências)
+- [Autores](#desenvolvedores)
 
 ---
 
-## 📖 Sobre o projeto
+## Sobre o projeto
 
 O **AprovaMente** é um projeto de desenvolvimento frontend que tem como objetivo facilitar a organização e o gerenciamento do tempo de estudo dos estudantes.
 
@@ -37,7 +37,7 @@ A plataforma reúne, em um único ambiente, conteúdos organizados por matérias
 
 Foi idealizado especialmente para estudantes do **Vale do Paranhana** que enfrentam dificuldades para administrar o tempo durante períodos de provas e vestibulares.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Facilitar a organização da rotina de estudos.
 - Disponibilizar conteúdos educacionais organizados por matérias.
@@ -46,18 +46,18 @@ Foi idealizado especialmente para estudantes do **Vale do Paranhana** que enfren
 - Proporcionar uma interface intuitiva e responsiva.
 - Incentivar a autonomia e a organização dos estudantes.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- 📚 Estudar por matéria
-- 📝 Acessar conteúdos educacionais
-- ✏️ Resolver exercícios
-- 🤖 Assistência com inteligência artificial
-- 👤 Personalização do perfil
-- 🔐 Sistema de login e cadastro
-- 🔑 Recuperação de senha
-- 🌗 Modo claro e modo escuro
+- Estudar por matéria
+- Acessar conteúdos educacionais
+- Resolver exercícios
+- Assistência com inteligência artificial
+- Personalização do perfil
+- Sistema de login e cadastro
+- Recuperação de senha
+- Modo claro e modo escuro
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 | Tecnologia | Uso |
 |---|---|
@@ -71,19 +71,19 @@ Foi idealizado especialmente para estudantes do **Vale do Paranhana** que enfren
 | **Git** | Controle de versão |
 | **GitHub** | Hospedagem do repositório |
 
-## 🎨 Identidade visual
+## Identidade visual
 
 A identidade visual utiliza cores selecionadas com base em princípios de design e psicologia das cores:
 
-- 🟠 **Laranja:** energia e incentivo à ação
-- 🟡 **Amarelo:** destaque e atenção
-- 🔵 **Azul:** confiança e tranquilidade
-- 🟣 **Roxo:** criatividade
-- ⚫ **Preto:** base visual para o modo escuro
+- **Laranja:** energia e incentivo à ação
+- **Amarelo:** destaque e atenção
+- **Azul:** confiança e tranquilidade
+- **Roxo:** criatividade
+- **Preto:** base visual para o modo escuro
 
 A interface busca manter boa hierarquia visual, contraste e facilidade de navegação.
 
-## 📱 Responsividade e acessibilidade
+## Responsividade e acessibilidade
 
 O projeto oferece uma experiência adequada em computadores, tablets e celulares, considerando:
 
@@ -94,19 +94,19 @@ O projeto oferece uma experiência adequada em computadores, tablets e celulares
 - Contraste adequado entre textos e fundos
 - Navegação simples e intuitiva
 
-## ✅ Checklist dos critérios de avaliação
+## Checklist dos critérios de avaliação
 
 | Critério | Status | Justificativa |
 |---|---|---|
-| **Deploy e funcionamento** (2,0 pts) | ✅ Concluído | Aplicação publicada na web, acessível diretamente pelo navegador, sem telas em branco ou erros de carregamento. |
-| **Interatividade sem recarregamento** (2,0 pts) | ✅ Concluído | Formulários e ações usam JavaScript e `preventDefault()`, permitindo cadastrar, editar e remover informações sem atualizar a página. |
-| **Persistência de dados** (2,0 pts) | ✅ Concluído | Dados armazenados com `localStorage`, permanecendo disponíveis após atualizar a página. |
-| **Estabilidade do Console** (2,0 pts) | ✅ Concluído | Testes no DevTools confirmaram o funcionamento sem erros em vermelho no Console. |
-| **Adaptabilidade e responsividade** (2,0 pts) | ✅ Concluído | Interface adaptável a diferentes telas, incluindo celulares, com HTML semântico e recursos de acessibilidade. |
+| **Deploy e funcionamento** (2,0 pts) | Concluído | Aplicação publicada na web, acessível diretamente pelo navegador, sem telas em branco ou erros de carregamento. |
+| **Interatividade sem recarregamento** (2,0 pts) | Concluído | Formulários e ações usam JavaScript e `preventDefault()`, permitindo cadastrar, editar e remover informações sem atualizar a página. |
+| **Persistência de dados** (2,0 pts) | Concluído | Dados armazenados com `localStorage`, permanecendo disponíveis após atualizar a página. |
+| **Estabilidade do Console** (2,0 pts) | Concluído | Testes no DevTools confirmaram o funcionamento sem erros em vermelho no Console. |
+| **Adaptabilidade e responsividade** (2,0 pts) | Concluído | Interface adaptável a diferentes telas, incluindo celulares, com HTML semântico e recursos de acessibilidade. |
 
 **Pontuação total: 10,0 pontos**
 
-## 📅 Cronograma de desenvolvimento
+## Cronograma de desenvolvimento
 
 | Semana | Etapa | Atividades |
 |---|---|---|
@@ -117,7 +117,7 @@ O projeto oferece uma experiência adequada em computadores, tablets e celulares
 | 5 | Melhorias e documentação | Análise dos feedbacks, melhorias e documentação |
 | 6 | Apresentação final | Slides, ensaios e apresentação do projeto |
 
-## 🧪 Testes e feedback dos usuários
+## Testes e feedback dos usuários
 
 Foram previstos testes com pelo menos cinco usuários reais para avaliar facilidade de navegação, organização dos conteúdos, aparência da interface e funcionamento das funcionalidades.
 
@@ -131,18 +131,18 @@ Foram previstos testes com pelo menos cinco usuários reais para avaliar facilid
 | Julia Oliveira Siqueira | Gostou muito do site e o achou útil para estudar, pela facilidade de encontrar as matérias de que mais precisa. | _A preencher_ |
 | Usuário 5 | _Aguardando feedback_ | _A preencher_ |
 
-## 🌐 Links do projeto
+## Links do projeto
 
-- 🔗 **Aplicação online:** [aprovamente.github.io/AprovaMente](https://aprovamente.github.io/AprovaMente/)
-- 💻 **Repositório GitHub:** [github.com/AprovaMente/AprovaMente](https://github.com/AprovaMente/AprovaMente)
-- 🎨 **Protótipo Figma:** [Acessar o protótipo AprovaMente](https://www.figma.com/design/4FxzrhFAUIuhYQjdd69bUu/AprovaJ%C3%A1?node-id=0-1&t=bAnh1Tnmp0bNEnI8-0)
+- **Aplicação online:** [aprovamente.github.io/AprovaMente](https://aprovamente.github.io/AprovaMente/)
+- **Repositório GitHub:** [github.com/AprovaMente/AprovaMente](https://github.com/AprovaMente/AprovaMente)
+- **Protótipo Figma:** [Acessar o protótipo AprovaMente](https://www.figma.com/design/4FxzrhFAUIuhYQjdd69bUu/AprovaJ%C3%A1?node-id=0-1&t=bAnh1Tnmp0bNEnI8-0)
 
-## 📲 QR Code
+## QR Code
 
 <!-- Adicione aqui o QR Code que direciona para a aplicação publicada: -->
 <!-- ![QR Code](./caminho/qrcode.png) -->
 
-## 📚 Referências
+## Referências
 
 - [MDN Web Docs](https://developer.mozilla.org/) — documentação de tecnologias web
 - [W3C](https://www.w3.org/) — padrões e recomendações para a web
@@ -151,7 +151,7 @@ Foram previstos testes com pelo menos cinco usuários reais para avaliar facilid
 - [GitHub Docs](https://docs.github.com/) — documentação do GitHub
 - [Figma](https://www.figma.com/) — ferramenta de prototipagem e design
 
-## 👨‍💻 Desenvolvedores
+## Desenvolvedores
 
 - **Diogo Schäfer Kerpel**
 - **Lucas Otávio Ehms de Oliveira**
