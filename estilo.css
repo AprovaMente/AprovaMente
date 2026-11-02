@@ -56,7 +56,7 @@ p { margin: 0 0 14px; max-width: 70ch; }
 }
 .marca { display: flex; align-items: center; gap: 7px; color: #fff; font-weight: 700; font-size: 1.05rem; }
 .marca:hover { text-decoration: none; }
-.marca img { height: 40px; width: auto; display: block; }
+.marca img { height: 52px; width: auto; display: block; }
 .hamburguer {
   display: flex;
   flex-direction: column;
