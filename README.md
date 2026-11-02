@@ -125,10 +125,10 @@ Foram previstos testes com pelo menos cinco usuários reais para avaliar facilid
 
 | Usuário | Feedback recebido | Melhoria aplicada |
 |---|---|---|
-| Douglas Cristiano Rodrigres da Silva | Se a plataforma for voltada para jovens adultos, o layout está correto; se for abranger várias faixas etárias, poderia ser mais interativa, com animações e interações. | _A preencher_ |
-| Gileade Gomes de Almeida | Aconselhou trocar o nome do projeto, pois já existe um nome igual registrado. | _A preencher_ |
-| Janete Coppelo Valentine | Achou o trabalho fantástico. Gostou da ideia de estudar como reforço e ainda aprofundar os conteúdos, e destacou que os simulados permitem ao aluno conhecer seu progresso de forma real. | _A preencher_ |
-| Julia Oliveira Siqueira | Gostou muito do site e o achou útil para estudar, pela facilidade de encontrar as matérias de que mais precisa. | _A preencher_ |
+| Douglas Cristiano Rodrigres da Silva | Se a plataforma for voltada para jovens adultos, o layout está correto; se for abranger várias faixas etárias, poderia ser mais interativa, com animações e interações. |  |
+| Gileade Gomes de Almeida | Aconselhou trocar o nome do projeto, pois já existe um nome igual registrado. | Alteração do nome e consequentemente a alteração da logo |
+| Janete Coppelo Valentine | Achou o trabalho fantástico. Gostou da ideia de estudar como reforço e ainda aprofundar os conteúdos, e destacou que os simulados permitem ao aluno conhecer seu progresso de forma real. |  |
+| Julia Oliveira Siqueira | Gostou muito do site e o achou útil para estudar, pela facilidade de encontrar as matérias de que mais precisa. |  |
 | Usuário 5 | _Aguardando feedback_ | _A preencher_ |
 
 ## Links do projeto
