@@ -31,7 +31,7 @@ Plataforma educacional para auxiliar estudantes na organização da rotina de es
 
 ## Sobre o projeto
 
-O **AprovaMente** é um projeto de desenvolvimento frontend que tem como objetivo facilitar a organização e o gerenciamento do tempo de estudo dos estudantes.
+O **AprovaMente** é um projeto de desenvolvimento front-end que tem como objetivo facilitar a organização e o gerenciamento do tempo de estudo dos estudantes.
 
 A plataforma reúne, em um único ambiente, conteúdos organizados por matérias, exercícios práticos e assistência com inteligência artificial, proporcionando uma experiência de estudo mais organizada, acessível e personalizada.
 
@@ -125,22 +125,17 @@ Foram previstos testes com pelo menos cinco usuários reais para avaliar facilid
 
 | Usuário | Feedback recebido | Melhoria aplicada |
 |---|---|---|
-| Douglas Cristiano Rodrigres da Silva | Se a plataforma for voltada para jovens adultos, o layout está correto; se for abranger várias faixas etárias, poderia ser mais interativa, com animações e interações. |  |
-| Gileade Gomes de Almeida | Aconselhou trocar o nome do projeto, pois já existe um nome igual registrado. | Alteração do nome e consequentemente a alteração da logo |
-| Janete Coppelo Valentine | Achou o trabalho fantástico. Gostou da ideia de estudar como reforço e ainda aprofundar os conteúdos, e destacou que os simulados permitem ao aluno conhecer seu progresso de forma real. |  |
-| Julia Oliveira Siqueira | Gostou muito do site e o achou útil para estudar, pela facilidade de encontrar as matérias de que mais precisa. |  |
-| Usuário 5 | _Aguardando feedback_ | _A preencher_ |
+| Douglas Cristiano Rodrigres da Silva | Se a plataforma for voltada para jovens adultos, o layout está correto; se for abranger várias faixas etárias, poderia ser mais interativa, com animações e interações. | _A preencher_ |
+| Gileade Gomes de Almeida | Aconselhou trocar o nome do projeto, pois já existe um nome igual registrado. | _A preencher_ |
+| Janete Coppelo Valentine | Achou o trabalho fantástico. Gostou da ideia de estudar como reforço e ainda aprofundar os conteúdos, e destacou que os simulados permitem ao aluno conhecer seu progresso de forma real. | _A preencher_ |
+| Julia Oliveira Siqueira | Gostou muito do site e o achou útil para estudar, pela facilidade de encontrar as matérias de que mais precisa. | _A preencher_ |
+| Felipe Schnorr Puls | Disse que a parte de ver o plano não existe e achou confusa a parte do perfil, principalmente porque, ao clicar nele, o usuário permanece na tela do formulário. Observou que a parte das matérias está fixa, então não é possível ver o resultado real dos simulados no site. Fora isso, achou o site muito bom e a proposta muito legal. Sugeriu permitir o envio de provas externas (arquivo ou foto) para a IA analisar e registrar no histórico. | _A preencher_ |
 
 ## Links do projeto
 
 - **Aplicação online:** [aprovamente.github.io/AprovaMente](https://aprovamente.github.io/AprovaMente/)
 - **Repositório GitHub:** [github.com/AprovaMente/AprovaMente](https://github.com/AprovaMente/AprovaMente)
 - **Protótipo Figma:** [Acessar o protótipo AprovaMente](https://www.figma.com/design/4FxzrhFAUIuhYQjdd69bUu/AprovaJ%C3%A1?node-id=0-1&t=bAnh1Tnmp0bNEnI8-0)
-
-## QR Code
-
-<!-- Adicione aqui o QR Code que direciona para a aplicação publicada: -->
-<!-- ![QR Code](./caminho/qrcode.png) -->
 
 ## Referências
 
@@ -156,10 +151,10 @@ Foram previstos testes com pelo menos cinco usuários reais para avaliar facilid
 - **Diogo Schäfer Kerpel**
 - **Lucas Otávio Ehms de Oliveira**
 
-**Instituição:** Escola Técnica Estadual Monteiro Lobato
-**Curso:** Técnico em Informática
-**Local:** Taquara — RS
-**Ano:** 2026
+- **Instituição:** Escola Técnica Estadual Monteiro Lobato
+- **Curso:** Técnico em Informática
+- **Local:** Taquara — RS
+- **Ano:** 2026
 
 ---
 
