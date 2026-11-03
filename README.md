@@ -125,11 +125,11 @@ Foram previstos testes com pelo menos cinco usuários reais para avaliar facilid
 
 | Usuário | Feedback recebido | Melhoria aplicada |
 |---|---|---|
-| Douglas Cristiano Rodrigres da Silva | Se a plataforma for voltada para jovens adultos, o layout está correto; se for abranger várias faixas etárias, poderia ser mais interativa, com animações e interações. | _A preencher_ |
-| Gileade Gomes de Almeida | Aconselhou trocar o nome do projeto, pois já existe um nome igual registrado. | _A preencher_ |
-| Janete Coppelo Valentine | Achou o trabalho fantástico. Gostou da ideia de estudar como reforço e ainda aprofundar os conteúdos, e destacou que os simulados permitem ao aluno conhecer seu progresso de forma real. | _A preencher_ |
-| Julia Oliveira Siqueira | Gostou muito do site e o achou útil para estudar, pela facilidade de encontrar as matérias de que mais precisa. | _A preencher_ |
-| Felipe Schnorr Puls | Disse que a parte de ver o plano não existe e achou confusa a parte do perfil, principalmente porque, ao clicar nele, o usuário permanece na tela do formulário. Observou que a parte das matérias está fixa, então não é possível ver o resultado real dos simulados no site. Fora isso, achou o site muito bom e a proposta muito legal. Sugeriu permitir o envio de provas externas (arquivo ou foto) para a IA analisar e registrar no histórico. | _A preencher_ |
+| Douglas Cristiano Rodrigres da Silva | Se a plataforma for voltada para jovens adultos, o layout está correto; se for abranger várias faixas etárias, poderia ser mais interativa, com animações e interações. |  |
+| Gileade Gomes de Almeida | Aconselhou trocar o nome do projeto, pois já existe um nome igual registrado. | Alteração de nome do projeto e site, consequentemente a alteração da logo |
+| Janete Coppelo Valentine | Achou o trabalho fantástico. Gostou da ideia de estudar como reforço e ainda aprofundar os conteúdos, e destacou que os simulados permitem ao aluno conhecer seu progresso de forma real. |  |
+| Julia Oliveira Siqueira | Gostou muito do site e o achou útil para estudar, pela facilidade de encontrar as matérias de que mais precisa. |  |
+| Felipe Schnorr Puls | Achou confusa a parte do perfil, principalmente porque, ao clicar nele, o usuário permanece na tela do formulário. Fora isso, achou o site muito bom e a proposta muito legal. Sugeriu permitir o envio de provas externas (arquivo ou foto) para a IA analisar e registrar no histórico. | alteração de layout e alteração do formulário na seção do perfil |
 
 ## Links do projeto
 
